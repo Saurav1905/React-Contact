@@ -1,0 +1,29 @@
+.container {
+  min-height: 120vh;
+  margin-left: 8% !important;
+  margin-right: auto !important;
+  background-color: #f0f0f0;
+  display: flex;
+  text-align: center;
+}
+.max-width {
+  width: 90%;
+  margin-top: 2rem !important;
+  background-color: white !important;
+}
+.header {
+  color: #db2414;
+  font-weight: 750 !important;
+  font-size: 2em !important;
+}
+h3 {
+  font-weight: 500;
+}
+.user-head {
+  color: green;
+  font-weight: 500;
+  font-size: 2em !important;
+}
+.button {
+  margin-top: 2rem !important;
+}
